@@ -53,6 +53,14 @@ python facerecognitions.py path/to/your/image.jpg
 
 ---
 
+## 📸 Screenshot
+
+Here’s the program detecting and recognizing faces in real time:
+
+<img src="facerecognitions.png" width="700"/>
+<img src="facerecognitions2.png" width="700"/>
+<img src="facerecognitions3.png" width="700"/>
+
 ## 🗂️ Project Structure
 ```
 face_recognition_program/
