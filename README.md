@@ -16,10 +16,7 @@ This is my first personal project written in **Python** that uses **OpenCV** and
 ## 🙏 Inspiration & Credits
 | Resource | How it helped |
 | -------- | ------------- |
-| 🎥 YouTube video — [“Build a Face Recognition Program in Python – Full Guide”](https://www.youtube.com/watch?v=dY29JzuMJJU&list=WL&index=3&t=9s) | Guided me step-by-step through the overall approach and code structure |
 | 📚 GitHub — [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) | Provides the underlying face detection & recognition functionality |
-
-Big thanks to both creators for making this project possible!
 
 ---
 
